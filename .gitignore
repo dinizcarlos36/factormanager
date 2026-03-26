@@ -39,3 +39,17 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# tools
+.agents/
+.augment/
+.claude/
+.insforge/
+.kilocode/
+.qoder/
+.qwen/
+.roo/
+.trae/
+.windsurf/
+.gemini/
+.cursor/
